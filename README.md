@@ -1,4 +1,4 @@
-Gianni Baccino 51507598 - Prueuba Técnica
+Gianni Baccino 51507598 - Prueba Técnica
 
 Juego de Preguntas y Respuestas.
 
